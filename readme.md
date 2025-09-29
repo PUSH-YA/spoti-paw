@@ -1,5 +1,7 @@
 *(forked from our nwhacks 2025 project for personal use)*
 
+![](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/225/285/datas/original.png)
+
 ## Inspiration
 
 Besides the thrill of having 4 CS students congregate together in a caliginous room in our CS buildings basement working on a project for the next 24 hours, we were excited by the prospect of trying something that most of us hadn't done before - combining hardware and software. More importantly, We saw great potential in our idea, and took to chance to learn new skills to create something that we think will be the future of music streaming.
